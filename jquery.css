@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(21, 21, 123);
+    color: whitesmoke;
+   
+    
+}
+
+header{
+    margin: 30px;
+
+}
+
+main{
+    margin: 40px;
+}
+
+
+
+
+label{
+    display: block;
+}
+
+
+
+.charcount{
+    color: gray;
+}
+h1{
+    color: rgb(236, 9, 9);
+}
+h2{
+    color: red;
+}
+h3{
+    color: red;
+
+}
+p{
+    color: rgb(10, 243, 243);
+}
+button{
+    
+    background-color: rgba(245, 16, 16, 0.678);
+    /* color green*/
+    color: rgb(5, 5, 5);
+    /* color black*/
+   border-radius: 30px;
+   border-color: aqua;
+   padding: 15px 15px;     /* top/bottom 15px, left/right 30px */
+      font-size: 15px;        /* make the text bigger */
+         
+      cursor:crosshair  
+      /* makes cursor a crosshair*/   
+ 
+}
+nav a{
+    background-color: rgb(231, 28, 28);
+     /*background color red*/
+    color: rgb(30, 17, 36);
+    /*color black*/
+    border-radius: 10px;
+    /*border radius 10px*/
+    padding: 10px;
+    /*padding 10px*/
+    margin: 10px;
+     /*margin 10px*/
+}

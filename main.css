@@ -1,0 +1,179 @@
+body{
+    background-color: rgb(14, 13, 13);
+    /*background color black*/
+    color:white;
+    /*color white*/
+    margin: 0px;
+    /*margin 0px*/
+    padding: 0px;
+    /*padding 0px*/
+}
+
+nav a{
+    background-color: rgb(231, 28, 28);
+     /*background color red*/
+    color: rgb(30, 17, 36);
+    /*color black*/
+    border-radius: 10px;
+    /*border radius 10px*/
+    padding: 10px;
+    /*padding 10px*/
+    margin: 10px;
+     /*margin 10px*/
+}
+header{
+margin: 20px;
+ /*margin 20px*/
+}
+main{
+    margin: 20px;
+     /*margin 20px*/
+}
+.div{
+    color:purple;
+     /* color purple*/
+    font-style: oblique;
+    /*this is the font style*/
+
+}
+h1{
+color: aqua;
+/*color aqua*/
+font-style: italic;
+/*this is the font style*/
+}
+h2{
+color: rgb(237, 100, 9);
+/*color orange*/
+font-style: italic;
+/*this is the font style*/
+}
+h3{
+color: white;
+/*color white*/
+font-style: oblique;
+/*this is the font style*/
+}
+img{
+    width: 300px;
+    height: 200px;
+    /*img sizes so they fit on the webpage*/
+}
+form{
+    color: rgb(31, 207, 160);
+    /* color blue*/
+    font-style: initial;
+    /*this is the font style*/
+       display: flex;   
+          /* it Align the items in a row */      
+
+   
+}
+.button{
+    background-color: rgba(240, 24, 157, 0.678);
+    /* color red*/
+    color: black;
+    /* color black*/
+    border-radius: 20px;
+    /*bordere radius*/
+    padding: 5px;
+     /*padding 5px*/
+      cursor:crosshair  
+      /* makes cursor a crosshair*/  
+}
+.div1{
+
+    color: aqua;
+    /* color blue*/
+    font-style: italic;
+     /*this is the font style*/
+    font-size: 40px;
+    /*this is the font size*/
+}
+.div2{
+
+    color: aqua;
+    /* color blue*/
+    font-style: oblique;
+     /*this is the font style*/
+   font-size: 20px;
+   /*this is the font size*/
+}
+p{
+color: rgb(0, 153, 255);
+/* color blue*/
+font-style: italic;
+ /*this is the font style*/
+font-size: 20px;
+/*this is the font size*/
+}
+
+p2{
+color: rgb(9, 151, 227);
+/* color blue*/
+font-style: italic;
+ /*this is the font style*/
+font-size: 20px;
+/*this is the font size*/
+}
+
+.div3{
+      color: rgb(255, 102, 0);
+    /* color blue*/
+    font-style: oblique;
+     /*this is the font style*/
+   font-size: 20px;
+   /*this is the font size*/
+}
+#frmlogin{
+
+     
+/* color red*/
+color: rgb(221, 11, 11);
+/* color black*/
+padding: 10px;
+font-style: italic;
+/*this is the font style*/
+ display:block;   
+ /* it Align the items up and down */  
+font-size: 30px;
+          
+    
+}    
+#bttn{
+  
+
+    background-color: rgba(31, 240, 24, 0.678);
+    /* color green*/
+    color: rgb(5, 5, 5);
+    /* color black*/
+   border-radius: 30px;
+   border-color: aqua;
+   padding: 15px 30px;     /* top/bottom 15px, left/right 30px */
+      font-size: 18px;        /* make the text bigger */
+         
+      cursor:crosshair  
+      /* makes cursor a crosshair*/   
+ 
+    
+}
+h4{
+
+color: rgb(7, 7, 7);
+/*color white*/
+font-style:italic;
+/*this is the font style*/
+font-size: 40px;
+background-color: aliceblue;
+
+
+}
+#ulTasks{
+    font-size: 40px;
+    font-style: italic;
+    
+}
+
+
+
+
