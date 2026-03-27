@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple PHP web application created for the CSC356 course. It includes a basic login flow, page routing, and some client-side JavaScript/CSS assets.
+This is a PHP web application created for the CSC356 course. It includes a basic login flow, page routing, and some client-side JavaScript/CSS assets.
 
 ## Project structure
 
@@ -40,4 +40,4 @@ This is a simple PHP web application created for the CSC356 course. It includes 
 
 ## Contact
 
-For changes or questions, edit files directly in the project folder or reach out and i will help as best as i can.
+For any questions feel free to reach out any time
